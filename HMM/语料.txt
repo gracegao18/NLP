@@ -1,0 +1,19 @@
+中科院计算所NLPIR http://ictclas.nlpir.org/nlpir/
+
+ansj分词器 https://github.com/NLPchina/ansj_seg
+
+哈工大的LTP https://github.com/HIT-SCIR/ltp
+
+清华大学THULAC https://github.com/thunlp/THULAC
+
+斯坦福分词器 https://nlp.stanford.edu/software/segmenter.shtml
+
+Hanlp分词器 https://github.com/hankcs/HanLP
+
+结巴分词 https://github.com/yanyiwu/cppjieba
+
+KCWS分词器(字嵌入+Bi-LSTM+CRF) https://github.com/koth/kcws
+
+ZPar https://github.com/frcchang/zpar/releases
+
+IKAnalyzer https://github.com/wks/ik-analyzer
