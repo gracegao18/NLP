@@ -1,0 +1,14 @@
+setup.cfg
+setup.py
+bert4pytorch/__init__.py
+bert4pytorch/ema.py
+bert4pytorch/file_utils.py
+bert4pytorch/modeling.py
+bert4pytorch/optimization.py
+bert4pytorch/snippets.py
+bert4pytorch/tokenization.py
+bert4pytorch.egg-info/PKG-INFO
+bert4pytorch.egg-info/SOURCES.txt
+bert4pytorch.egg-info/dependency_links.txt
+bert4pytorch.egg-info/requires.txt
+bert4pytorch.egg-info/top_level.txt

@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: bert4pytorch
+Version: 0.1.2
+Summary: an elegant bert4pytorch
+Home-page: https://github.com/MuQiuJun-AI/bert4pytorch
+Author: MuQiuJun
+License: Apache License 2.0
+Requires-Dist: torch>1.0
+
+bert4pytorch: 
